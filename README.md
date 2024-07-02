@@ -1,3 +1,4 @@
+<img src="banner.png" alt="TI Sabbirs GitHub README header image">
 # 💫 About Me:
 👋 Hi! I'm MD Tarekul Islam Sabbir. I am currently pursuing my B.Sc. from NSTU.<br><br>🔭 I’m currently focused on Web Development and love its challenges.<br><br>🌱 I'm working with React, JavaScript, MongoDB, Node, and Express technologies.<br><br>🤝 I am looking to collaborate on React projects.<br><br>💬 Feel free to ask me anything; I'm always happy to help.<br><br>🌐 Visit my portfolio website for a complete background and contact information.
 
